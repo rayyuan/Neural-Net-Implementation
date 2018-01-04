@@ -1,2 +1,2 @@
 # Neural-Net-Implementation
-Vectorized implementation of single layer and deep neural nets. 
+Vectorized implementation of deep neural nets. Batch GD.
